@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotChocolateConcurrencyBug.Gateway", "HotChocolateConcurrencyBug.Gateway\HotChocolateConcurrencyBug.Gateway.csproj", "{49B808FE-C659-4B53-804E-43E0D38BD63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleService1", "ExampleService1\ExampleService1.csproj", "{2D30989B-726A-40FD-A3DA-DE1706947F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleService2", "ExampleService2\ExampleService2.csproj", "{0E0532E1-B6B0-4B21-A496-D746D9EFD03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B808FE-C659-4B53-804E-43E0D38BD63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B808FE-C659-4B53-804E-43E0D38BD63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B808FE-C659-4B53-804E-43E0D38BD63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B808FE-C659-4B53-804E-43E0D38BD63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D30989B-726A-40FD-A3DA-DE1706947F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D30989B-726A-40FD-A3DA-DE1706947F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D30989B-726A-40FD-A3DA-DE1706947F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D30989B-726A-40FD-A3DA-DE1706947F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0532E1-B6B0-4B21-A496-D746D9EFD03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0532E1-B6B0-4B21-A496-D746D9EFD03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0532E1-B6B0-4B21-A496-D746D9EFD03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0532E1-B6B0-4B21-A496-D746D9EFD03F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
